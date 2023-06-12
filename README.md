@@ -1,3 +1,4 @@
+[P2HW1_SmithAaron.zip](https://github.com/smitha9403/cti110/files/11723479/P2HW1_SmithAaron.zip)
 # CTI 110 Repository
 Created for P1LAB1
 Smith
